@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title></title>
+		<title>local title</title>
 	</head>
 	<body>
 	</body>
