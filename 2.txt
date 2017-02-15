@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>local title</title>
+		<title>okok</title>
 	</head>
 	<body>
 	</body>
